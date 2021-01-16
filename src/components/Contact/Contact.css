@@ -1,0 +1,24 @@
+.reservation {
+  width: 100%;
+  background: rgba(231, 151, 2, 0.5);
+}
+.reservation .form-group label {
+  font-weight: bold;
+  color: #000;
+}
+@media (max-width: 768px) {
+  .reservation .form-group .select-wrap {
+    position: relative;
+  }
+  .reservation .form-group .btn-book {
+    width: 100%;
+    display: block;
+  }
+}
+
+.btn-book {
+  display: inline-block;
+  vertical-align: middle;
+  color: #fff !important;
+  background: #000 !important;
+}

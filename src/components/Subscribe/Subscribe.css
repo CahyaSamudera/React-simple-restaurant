@@ -1,0 +1,22 @@
+/* #subscribe {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url(./images/food-1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
+  } */
+#subscribe h4 {
+  font-size: 25px;
+  font-weight: bold;
+}
+#subscribe .form-control {
+  background: #fff;
+  font-size: 20px;
+}
+#subscribe .form-btn {
+  font-size: 20px;
+  background: #e79702;
+  border: 3px solid #fe9801;
+}
