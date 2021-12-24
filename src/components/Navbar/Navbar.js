@@ -1,5 +1,6 @@
 import React from 'react';
 import './Navbar.css';
+import logo from '../../images/logo-3.png';
 
 const Navbar = () => {
   return (
@@ -7,7 +8,7 @@ const Navbar = () => {
       <div id='navbar-top'>
         <div className='cover'>
           <div className='container'>
-            <div className='d-flex justify-content-between'>
+            <div className='d-flex justify-content-between textblack'>
               <p className='mb-0 p-none pl-md-2'>
                 <a href='#hero' className='mr-2'>
                   <i className='fas fa-phone mr-1'></i>
@@ -28,9 +29,10 @@ const Navbar = () => {
           id='main-navbar'
         >
           <div className='container'>
-            <a href='#product' className='navbar-brand'>
+            <img src={logo} className='logo' alt='' />
+            {/* <a href='#product' className='navbar-brand'>
               Cafe Loliat2
-            </a>
+            </a> */}
             {/* <div className='order-lg-last btn-group'>
               <i className='fas fa-shopping-bag fa-2x'> </i>
             </div> */}
