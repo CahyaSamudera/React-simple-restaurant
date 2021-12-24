@@ -57,7 +57,7 @@ const Product = () => {
         <div className='container'>
           <div className='row justify-content-center pb-5'>
             <div className='col-md-7 heading-section text-center'>
-              <h2 className='font-weight-bold text-color glow'>U Resto</h2>
+              <h2 className='font-weight-bold text-color glow'>Menu Utama</h2>
             </div>
           </div>
 
@@ -68,7 +68,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -89,7 +89,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='out'>Terfavorit</span>
@@ -106,7 +106,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle2}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -127,7 +127,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='day'>Terlaris</span>
@@ -144,7 +144,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle3}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -165,7 +165,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='week'>Terlaris</span>
@@ -182,7 +182,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle4}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -203,7 +203,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   {/* <span className="out">Out of Kitchen</span> */}
@@ -220,7 +220,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle5}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -241,7 +241,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='category font-weight-bold'>lorem ipsum</span>
@@ -257,7 +257,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle6}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -278,7 +278,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='category font-weight-bold'>lorem ipsum</span>
@@ -294,7 +294,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle7}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -315,7 +315,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='category font-weight-bold'>lorem ipsum</span>
@@ -331,7 +331,7 @@ const Product = () => {
                   className='img d-flex align-items-center justify-content-center'
                   style={backgroundStyle}
                 >
-                  <div className='icons'>
+                  {/* <div className='icons'>
                     <p className='icon-block d-flex'>
                       <a
                         href='#hero'
@@ -352,7 +352,7 @@ const Product = () => {
                         <i className='fas fa-eye'></i>
                       </a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 <div className='text text-center'>
                   <span className='category font-weight-bold'>lorem ipsum</span>

@@ -19,9 +19,9 @@ const Subscribe = () => {
           <div className='row align-items-center my-5'>
             <div className='col-sm-10 mx-auto-text-center mb-5'>
               <h4 className='display-3 mb-5 text-uppercase text-white text-center'>
-                Subscribe Untuk Update Terbaru
+                {/* Subscribe Untuk Update Terbaru */}
               </h4>
-              <form
+              {/* <form
                 action=''
                 className='form-inline d-flex justify-content-center'
               >
@@ -31,7 +31,7 @@ const Subscribe = () => {
                   placeholder='Email'
                 />
                 <button className='btn form-btn m-1'>Subscribe</button>
-              </form>
+              </form> */}
             </div>
           </div>
         </div>

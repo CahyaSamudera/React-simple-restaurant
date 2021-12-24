@@ -11,13 +11,13 @@ const Navbar = () => {
               <p className='mb-0 p-none pl-md-2'>
                 <a href='#hero' className='mr-2'>
                   <i className='fas fa-phone mr-1'></i>
-                  +021 555 99999
+                  +6281281082447
                 </a>
               </p>
               <p className='mb-0 p-none pl-md-2'>
                 <a href='#hero'>
                   <i className='fas fa-envelope mr-1'></i>
-                  email@gmail.com
+                  cafeloliatliat@gmail.com
                 </a>
               </p>
             </div>
@@ -29,11 +29,11 @@ const Navbar = () => {
         >
           <div className='container'>
             <a href='#product' className='navbar-brand'>
-              U-Resto
+              Cafe Loliat2
             </a>
-            <div className='order-lg-last btn-group'>
+            {/* <div className='order-lg-last btn-group'>
               <i className='fas fa-shopping-bag fa-2x'> </i>
-            </div>
+            </div> */}
             <button
               className='navbar-toggler'
               type='button'
@@ -54,7 +54,7 @@ const Navbar = () => {
                 </li>
                 <li className='nav-item'>
                   <a href='#product' className='nav-link'>
-                    Produk
+                    Menu
                   </a>
                 </li>
                 <li className='nav-item'>
@@ -64,7 +64,7 @@ const Navbar = () => {
                 </li>
                 <li className='nav-item'>
                   <a href='#blog' className='nav-link'>
-                    Blog
+                    Menu Baru
                   </a>
                 </li>
                 <li className='nav-item'>

@@ -28,7 +28,7 @@ const Blog = () => {
         <div className='container'>
           <div className='row justify-content-center mb-5'>
             <div className='col-md-7 blog-heading text-center'>
-              <h2>Artikel Terbaru</h2>
+              <h2>Menu Terbaru</h2>
             </div>
           </div>
           <div className='row d-flex'>
@@ -42,11 +42,11 @@ const Blog = () => {
                   <div></div>
                 </a>
                 <div className='text p-4 bg-light'>
-                  <div className='des'>
+                  {/* <div className='des'>
                     <p>
                       <i className='fa fa-calendar'></i> 24 Desember 2020
                     </p>
-                  </div>
+                  </div> */}
                   <h3 className='heading mb-3'>
                     <a href='#hero'>lorem ipsup</a>
                   </h3>
@@ -56,7 +56,7 @@ const Blog = () => {
                     nulla architecto dolor excepturi!
                   </p>
                   <a href='#hero' className='btn-custom'>
-                    Baca
+                    Detail
                     <i className='fa fa-long-arrow-right'></i>
                   </a>
                 </div>
@@ -73,11 +73,11 @@ const Blog = () => {
                   <div></div>
                 </a>
                 <div className='text p-4 bg-light'>
-                  <div className='des'>
+                  {/* <div className='des'>
                     <p>
                       <i className='fa fa-calendar'></i> 14 Oktober 2020
                     </p>
-                  </div>
+                  </div> */}
                   <h3 className='heading mb-3'>
                     <a href='#hero'>lorem ipsup</a>
                   </h3>
@@ -87,7 +87,7 @@ const Blog = () => {
                     nulla architecto dolor excepturi!
                   </p>
                   <a href='#hero' className='btn-custom'>
-                    Baca
+                    Detail
                     <i className='fa fa-long-arrow-right'></i>
                   </a>
                 </div>
@@ -104,11 +104,11 @@ const Blog = () => {
                   <div></div>
                 </a>
                 <div className='text p-4 bg-light'>
-                  <div className='des'>
+                  {/* <div className='des'>
                     <p>
                       <i className='fa fa-calendar'></i> 13 Agustus 2020
                     </p>
-                  </div>
+                  </div> */}
                   <h3 className='heading mb-3'>
                     <a href='#hero'>lorem ipsup</a>
                   </h3>
@@ -118,7 +118,7 @@ const Blog = () => {
                     nulla architecto dolor excepturi!
                   </p>
                   <a href='#hero' className='btn-custom'>
-                    Baca
+                    Detail
                     <i className='fa fa-long-arrow-right'></i>
                   </a>
                 </div>
@@ -135,11 +135,11 @@ const Blog = () => {
                   <div></div>
                 </a>
                 <div className='text p-4 bg-light'>
-                  <div className='des'>
+                  {/* <div className='des'>
                     <p>
                       <i className='fa fa-calendar'></i> 21 Juli 2020
                     </p>
-                  </div>
+                  </div> */}
                   <h3 className='heading mb-3'>
                     <a href='#hero'>lorem ipsup</a>
                   </h3>
@@ -149,7 +149,7 @@ const Blog = () => {
                     nulla architecto dolor excepturi!
                   </p>
                   <a href='#hero' className='btn-custom'>
-                    Baca
+                    Detail
                     <i className='fa fa-long-arrow-right'></i>
                   </a>
                 </div>

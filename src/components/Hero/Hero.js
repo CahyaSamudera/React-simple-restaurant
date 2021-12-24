@@ -18,9 +18,9 @@ const Hero = () => {
       <div className='hero' id='hero' style={backgroundStyle}>
         <div className='hero-container'>
           <div className='hero-logo'>
-            <h1 className='font-weight-bold'>U-Resto</h1>
+            <h1 className='font-weight-bold'>Cafe Loliat2</h1>
           </div>
-          <h2 className='font-weight-bold'>Makanan Sehat, Diantar Cepat</h2>
+          <h2 className='font-weight-bold'>Relax and Free Your Mind</h2>
           <div className='actions'>
             <a href='#hero' className='btn-get-started bg-warning'>
               Pesan Sekarang
